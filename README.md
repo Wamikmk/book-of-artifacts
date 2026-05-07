@@ -1,8 +1,8 @@
 # Book of Artifacts
 
-Interactive explainers for math, statistics, and machine learning. Built with the [interactive-educator](https://github.com/Wamikmk/interactive-educator) Claude skill — designed to teach through visual intuition and guided discovery.
+Interactive explainers for math, statistics, and machine learning. Built with the [interactive-educator](https://github.com/Wamikmk/interactive-educator) Claude skill designed to teach through visual intuition and guided discovery.
 
-Each artifact targets a specific *aha moment* — the conceptual click you don't get from reading a textbook.
+Each artifact targets a specific *aha moment* the conceptual click you don't get from reading a textbook.
 
 ## Index
 
