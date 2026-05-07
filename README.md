@@ -8,7 +8,7 @@ Each artifact targets a specific *aha moment* — the conceptual click you don't
 
 | Title | Concept | Demo |
 |---|---|---|
-| [Matrix Multiplication](./chain-rule-intuition/) | How nested derivatives compose | [▶ Run](https://claude.ai/public/artifacts/103ddfa5-116a-44db-ab10-8d50a7d70da7) |
+| [Matrix Multiplication](./chain-rule-intuition/) | What does multiplying a matrix to a vector mean? | [▶ Run](https://claude.ai/public/artifacts/103ddfa5-116a-44db-ab10-8d50a7d70da7) |
 
 ## About
 
